@@ -6,9 +6,9 @@ Ce projet contient des exemples d'appels d'API en JavaScript avec deux approches
 
 ## APIs utilisees
 
-- OpenWeatherMap: https://api.openweathermap.org/data/2.5/weather
-- NASA NEO Feed: https://api.nasa.gov/neo/rest/v1/feed
-- Open Library Search: https://openlibrary.org/search.json
+- OpenWeatherMap: https://openweathermap.org/api
+- NASA NEO Feed: https://api.nasa.gov/
+- Open Library Search: https://openlibrary.org/developers/api
 - Random User: https://randomuser.me/api/
 
 ## Prerequis
