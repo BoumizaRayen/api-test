@@ -1,4 +1,4 @@
-# TP3 - API Tests 
+# API Tests 
 
 Ce projet contient des exemples d'appels d'API en JavaScript avec deux approches:
 - `fetch` (natif)
